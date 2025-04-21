@@ -1,0 +1,20 @@
+- Nhiệm vụ 1: Nguyên cứu 3 thuật toán Clustering 2 
+    1. CLARANS (Clustering Large Applications based upon Randomized Search) 
+    2. BIRCH (Balanced Iterative Reducing Clustering and using Hierarchies) 
+    3. OPTICS (Ordering Points to Identify Clustering Structure)
+
+    + Chuẩn bị slide trình bày về thuật toán bao gồm: giới thiệu, ý tưởng, thuật toán, ví dụ minh họa (cụ thể, chi tiết từng bược thực hiện thuật toán)
+    + Viết code python chạy thực nghiệm thuật toán trên một 1 tập dữ liệu (>=50 mẫu, >=5 thuộc tính)
+    + Tìm hiểu và tự code thuật toán, làm thực nghiệm áp dụng 3 thuật toán trên 1 tập dữ liệu để phân tích so sánh
+
+
+- Nhiệm vụ 2: Chủ đề - Phân tích cảm nghĩ (Sentiment Analysis) 
+    1. Tìm hiểu bài toán, quy trình thực hiện, tổng quan các phương pháp (thuật toán) đã được áp dụng để giải quyết bài toán. 
+    2.  Các phương pháp nhóm đã lựa chọn để giải quyết bài toán.  
+    3. Thu thập và tiền xử lý dữ liệu
+    4. Thực nghiệm so sánh và đánh giá kết quả
+        + Cài đặt thực nghiệm  
+        + So sánh và đánh giá kết quả 
+    5. Viết báo cáo cho các nội dung thực hiện từ 1 đến 4
+
+
